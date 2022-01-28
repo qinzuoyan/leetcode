@@ -1,4 +1,3 @@
-// Copyright (c) 2019 xiaomi.com, Inc. All Rights Reserved.
 
 #include <string>
 #include <cstdlib>
